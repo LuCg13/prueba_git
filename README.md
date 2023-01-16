@@ -1,7 +1,7 @@
 # Curso de _Git_ & _GitHub_
 
-Fase de prueba de para commits
+Hola soy Luis estudiante de desarrollo web con el docente Jon Mircha, bienvenidos a mi repositorio de pruebas
 
-Agregando contenido más contenido de prueba
+Agregando contenido al _README.md_
 
-Este commit es para oficializar nuestra verisón **1.0.0**
+Este commit es para oficializar la primera versión del repositorio **v1.0.0**
